@@ -58,7 +58,7 @@ $ unzip master.zip
 Run the [setup.py](http://setup.py) file in the folder we extracted from the file
 
 ```
-$ <span class="hljs-built_in">cd</span> py-spidev-master
+$ cd py-spidev-master
 $ python setup.py
 ```
 
@@ -78,10 +78,10 @@ self.spidev.max_speed_hz = 4000000
 
 and save it.<br>
 
-Then copy this file to python library location (python 2 and 3 location)
+Then copy this file to python library location (python 2 or 3 location)
 
 ```
-$ cp lib_nrf24.py
+$ cp lib_nrf24.py /usr/lib/python2.7
 ```
 
 # Circuit Diagram
