@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+        <!--
+       *Burda kendi oluşturacamız button un nasıl olacağını
+       *tıklandığı zaman nasıl olacağını rengini radius unu belirliyoruz
+       *Burda state_pressed ile tıklandığı zaman buttonun nasıl olacağını belirtiyoruz
+       *Dikkat etmemiz önemli bir nokta var item e herhangi bir state belirlemiyorsak bu başlangıç şeklidir.
+       *ve bu item her zaman en altta olmalıdır .Yoksa çalışmamaktadır.
+         -->
+        <item android:state_pressed="true">
+            <shape>
+                <solid android:color="#494B63"  />
+                <corners android:radius="0px" />
+            </shape>
+        </item>
+
+        <item>
+            <shape>
+                <solid android:color="#2b2d41"  />
+                <corners android:radius="0px" />
+            </shape>
+        </item>
+
+
+</selector>

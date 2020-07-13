@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AkilliHom</string>
+
+    <string name="connection_error">Connection failed</string>
+    <string name="connection_trying">Connecting to AkıllıHOM System</string>
+    <string name="connection_tip">(the connection may take some time, please keep calm)</string>
+
+</resources>
