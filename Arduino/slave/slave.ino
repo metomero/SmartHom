@@ -18,8 +18,6 @@
 #define LED_ST 2000
 #define LED_UNST 2000
 
-//typedef enum {true, false} bool;
-
 void rgbSet(int idx);
 void calculateSteps();
 
