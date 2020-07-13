@@ -17,7 +17,7 @@ First of all, we need some electronic parts to build it.
 
 ### Raspberry Pi
 
-First of all, linux operating system must be installed on the system. I am using ubuntu 18.04.
+First of all, linux operating system must be installed on the raspberry pi. I am using ubuntu 18.04.
 
 We have to get some library for raspberry pi.
 
