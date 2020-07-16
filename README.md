@@ -98,7 +98,7 @@ $ cp lib_nrf24.py /usr/lib/python2.7
 
 ### Slave
 
-![SmartHom Slave](https://i.hizliresim.com/xTLFbl.png)
+![SmartHom Slave](https://i.hizliresim.com/cPwqHI.png)
 
 I will add more info in detail soon, but until then you can look at the connection scheme of the nrf24 module for raspberry pi and arduino. You have to pay attention to CE and CSN pins and their correct transfer to code.
 
