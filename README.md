@@ -11,7 +11,7 @@ First of all, we need some electronic parts to build it.
 * Raspberry Pi 3 or Zero W
 * Arduino (Uno, Nano etc...)
 * NRF24LF Transceiver Module (Two or more)
-* Some leds, resistors, condansators etc...
+* Some leds, resistors, 10 uf capacitors etc...
 * RGB LED Strip
 * Relay
 
